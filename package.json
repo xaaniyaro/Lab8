@@ -1,5 +1,5 @@
 {
-  "name": "lab7",
+  "name": "lab8",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -7,10 +7,14 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xaaniyaro/Lab8.git"
+  },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "cors": "^2.8.5",
-    "uuid": "^3.3.3"
-  }
+  "bugs": {
+    "url": "https://github.com/xaaniyaro/Lab8/issues"
+  },
+  "homepage": "https://github.com/xaaniyaro/Lab8#readme"
 }
